@@ -1,7 +1,7 @@
 import sys
-import extract
-import plot
-import render
+import modules.extract as extract
+import modules.plot as plot
+import modules.render as render
 
 name = 'spaceinvader'
 
